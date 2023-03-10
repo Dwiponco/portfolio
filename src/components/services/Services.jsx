@@ -31,49 +31,42 @@ const Services = () => {
                             <i className="uil uil-times services__modal-close" onClick={() => showModal(0)}></i>
                             <h3 className="services__modal-title">Product Designer</h3>
                             <p className="services__modal-description">
-                                With more than 3 years of experience. Providing quality work to clients and companies
+                                With more than 1 years of experience. Providing quality work to clients and companies
                             </p>
 
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Develop the user interface
+                                        Designing products from start to finish, including conceptualizing, sketching, and creating prototypes.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Web page development
+                                        Collaborating with product development teams to ensure that the designed product can be manufactured effectively and efficiently.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I Develop the user interface
+                                        Gathering feedback from users to help improve the product design and make it more functional.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I create UX element interaction
+                                        Analyzing market trends to ensure that the designed product remains relevant and competitive.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I position your comapany brand
-                                    </p>
-                                </li>
-
-                                <li className="services__modal-service">
-                                    <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">
-                                        Design and mockups of product for companies
+                                        Creating product specifications and developing design guidelines to help ensure consistency throughout the product.
                                     </p>
                                 </li>
                             </ul>
@@ -105,42 +98,28 @@ const Services = () => {
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon" />
                                     <p className="services__modal-info">
-                                        Develop the user interface
+                                        Conducting user research
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Web page development
+                                        Designing wireframes
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        i Develop the user interface
+                                        Prototypes, and visual mockups
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I create UX element interaction
-                                    </p>
-                                </li>
-
-                                <li className="services__modal-service">
-                                    <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">
-                                        I position your comapany brand
-                                    </p>
-                                </li>
-
-                                <li className="services__modal-service">
-                                    <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">
-                                        Design and mockups of product for companies
+                                        Collaborating with development and product management teams to ensure that the designed product can be implemented effectively and efficiently.
                                     </p>
                                 </li>
                             </ul>
@@ -172,42 +151,42 @@ const Services = () => {
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Develop the user interface
+                                        Branding Design: I can help create a strong and consistent brand identity, including logos, color palettes, and comprehensive brand guidelines.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Web page development
+                                        Web Design: I can create visually appealing and responsive website designs, with a focus on optimal user experience and high conversions.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I Develop the user interface
+                                        Mobile App Design: I can create user-friendly and intuitive mobile app designs, with a focus on client's business goals.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I create UX element interaction
+                                        Graphic Design: I can create various types of graphic designs, including brochures, posters, infographics, and other publications, to meet business and marketing needs.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I position your comapany brand
+                                        Packaging Design: I can help create attractive and memorable product packaging designs, with a focus on brand goals and consumer needs.
                                     </p>
                                 </li>
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Design and mockups of product for companies
+                                        Design Review: I can provide design reviews and consultations that help clients improve their design quality and meet business goals.
                                     </p>
                                 </li>
                             </ul>

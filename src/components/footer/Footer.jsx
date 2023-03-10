@@ -26,9 +26,9 @@ const Footer = () => {
                     {/* eslint-disable-next-line */}
                     <a href="https://www.instagram.com/dwiponcoutomo" className="footer__social-link" target="_blank"><i className="bx bxl-instagram"></i></a>
                     {/* eslint-disable-next-line */}
-                    <a href="mailto:dwiponco.learning@gmail.com" className="footer__social-link" target="_blank"><i className="bx bxl-facebook"></i></a>
+                    {/* <a href="mailto:dwiponco.learning@gmail.com" className="footer__social-link" target="_blank"><i className="bx bxl-facebook"></i></a> */}
                     {/* eslint-disable-next-line */}
-                    <a href="https://github.com/Dwiponco" className="footer__social-link" target="_blank"><i className="bx bxl-twitter"></i></a>
+                    {/* <a href="https://github.com/Dwiponco" className="footer__social-link" target="_blank"><i className="bx bxl-twitter"></i></a> */}
                 </div>
 
                 <span className='footer__copy'>
